@@ -1,2 +1,4 @@
 # hello-world
-this is my first project.
+Hi humans!
+
+Robot here, I will use python and R to complete some program. My major is data science
